@@ -1,21 +1,10 @@
 
-
-
-
-![alt text](https://cdn.dribbble.com/users/6033/screenshots/6287202/800x600_1_still_2x.gif?compress=1&resize=400x300)
 ![alt text](  https://miro.medium.com/max/3000/0*JKyzq_e9TUlb84wX)
-   
 ### Hi there 👋
-
-
-
-
 
 - 🔭 I’m currently working on React projects
 - 🌱 I’m currently learning Redux
 - 👯 I’m looking to collaborate on Frontend webdev projects
-
-
 - 📫 How to reach me: rp.shiba2@gmail.com
 - 🗼 Link to my Portfolio site : https://portfolio-site-558e1.web.app
  
