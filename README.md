@@ -19,7 +19,7 @@
 ![Technical skills](https://img.shields.io/badge/-Redux-764ABC?logo=Redux&logoColor=fff)
 ![Technical skills](https://img.shields.io/badge/-Express-000000?logo=Express&logoColor=fff)
 
-
+![Shiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shiba9999&count_private=true&show_icons=true&theme=radical)
 
 
 ![Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiba9999&show_icons=true&theme=radical)
