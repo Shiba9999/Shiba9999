@@ -3,6 +3,8 @@
 
 
 ![alt text](https://cdn.dribbble.com/users/6033/screenshots/6287202/800x600_1_still_2x.gif?compress=1&resize=400x300)
+![alt text](  https://miro.medium.com/max/3000/0*JKyzq_e9TUlb84wX)
+   
 ### Hi there 👋
 
 
