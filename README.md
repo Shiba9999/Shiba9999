@@ -21,7 +21,6 @@
 ![Technical skills](https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=fff)
 ![Technical skills](https://img.shields.io/badge/-Firebase-FFCA28?logo=Firebase&logoColor=fff)
 ![Technical skills](https://img.shields.io/badge/-Redux-764ABC?logo=Redux&logoColor=fff)
-![Technical skills](https://img.shields.io/badge/-Material-UI-0081CB?logo=Material-UI&logoColor=fff)
 ![Technical skills](https://img.shields.io/badge/-Express-000000?logo=Express&logoColor=fff)
 
 ![Shiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shiba9999&count_private=true&show_icons=true&theme=radical)
