@@ -14,5 +14,7 @@
 
 
 [![Shiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shiba9999)](https://github.com/Shiba9999/github-readme-stats)
+![](https://github.com/Shiba9999/github-stats/blob/master/generated/languages.svg)
+
 
 
