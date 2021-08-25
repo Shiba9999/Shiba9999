@@ -1,7 +1,7 @@
 
 ![alt text](  https://miro.medium.com/max/3000/0*JKyzq_e9TUlb84wX)
 ### Hi there 👋
-  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+  [![Linkedin](https://i.stack.imgur.com/gVE0j.png)(https://www.linkedin.com/in/shiba-prasad-b0223718b/)
 
 - 🔭 I’m currently working on React projects
 - 🌱 I’m currently learning Redux
