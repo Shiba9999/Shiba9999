@@ -18,9 +18,9 @@
 
 [![Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiba9999)](https://github.com/Shiba9999/github-readme-stats) -->
 
-https://github-readme-stats.vercel.app/api?username=Shiba9999&count_private=true&show_icons=true&theme=radical
 
 
+[![Shiba's GitHub stats] (https://github-readme-stats.vercel.app/api?username=Shiba9999&count_private=true&show_icons=true&theme=radical)
 
 
 
