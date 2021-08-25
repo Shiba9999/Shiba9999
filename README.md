@@ -12,7 +12,7 @@
 - 📫 How to reach me: rp.shiba2@gmail.com
 - 🗼 Link to my Portfolio site : https://portfolio-site-558e1.web.app
 
-
+![Technical skills](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)
 
 ![Shiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shiba9999&count_private=true&show_icons=true&theme=radical)
 
